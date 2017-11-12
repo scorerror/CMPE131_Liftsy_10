@@ -1,6 +1,8 @@
 # CMPE131_Liftsy_10
 > CMPE 131 Software Implementation Part 2
 
+Running environment Eclipse Neon 3.0 & Apache Tomcat 9.0 
+
 The repo contains 2 different version for part 2.
 1. The package with working `sign-in` and pre-created users (from previous assignment)
 2.  > LiftsySignUp - contains the old `index.html` files. Added `Index2.html` 
